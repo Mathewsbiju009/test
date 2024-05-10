@@ -4,3 +4,4 @@ beautiful
 gud evening
 jhdjhdvf
 git full
+git half
